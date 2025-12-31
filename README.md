@@ -14,6 +14,6 @@ It’s a minimal example to show how to handle form input, validation, and rende
 ---
 
 ## 📂 Project Structure
-- form.py (main application)
+- app.py (main application)
 - templates
 - form.html
